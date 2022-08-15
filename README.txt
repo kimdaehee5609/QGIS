@@ -1,8 +1,9 @@
-LaTeX beamer type
+# QGIS
 
-LaTeX beamer type
+2022.08.15.월   등록
 
-2022.07.22.금   등록
+QGIS
+
 
 
 
