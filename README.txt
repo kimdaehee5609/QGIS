@@ -1,8 +1,15 @@
-# QGIS
+#QGIS
 
-2022.08.15.월   등록
+git clone https://github.com/kimdaehee5609/QGIS.git
 
 QGIS
+
+2022.07.22.금   등록
+
+git pull
+
+
+
 
 
 
